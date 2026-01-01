@@ -1,0 +1,9 @@
+ChromeDriver = C:\\SeleniumCompletePrograms\\ObjectRepository_01\\ChromeBrowserJars\\chromedriver.exe
+FirefoxDriver = C:\\SeleniumCompletePrograms\\ObjectRepository_01\\EdgeBrowserJars\\msedgedriver.exe
+EdgeDriver = C:\\SeleniumCompletePrograms\\ObjectRepository_01\\FirefoxBrowserJars\\geckodriver.exe
+
+baseUrl= https://practicetestautomation.com/practice-test-login/
+Uname= username
+Psd = password
+SignIn=//button[@id='submit']
+ExcelSheet=C:\\SeleniumCompletePrograms\\ObjectRepository_01\\TestData\\TestData2.xlsx
